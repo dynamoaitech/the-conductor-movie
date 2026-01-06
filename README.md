@@ -1,8 +1,8 @@
 # 🎬 THE CONDUCTOR
 
-> A Political Thriller revealing the invisible architecture of power
+> Venezuela. Oil. Forty years. One trap.
 
-** A Human-AI-Assisted Screenplay | Created in 8 hours | Novel Methodology **
+**A Human-AI Collaboration | Created in 8 hours | Novel Methodology**
 
 ---
 # THE CONDUCTOR - Movie Project
