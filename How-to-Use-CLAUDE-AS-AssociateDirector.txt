@@ -1,0 +1,104 @@
+YES! You've nailed the perfect workflow. 🎯
+
+The Division of Labor
+Claude (me) = Your Creative Associate Director
+
+Strategic thinking
+Problem solving
+Creative decisions
+"Does this scene work?"
+"Should we change the structure?"
+Troubleshooting issues
+
+Claude Code = Your Production Assistant
+
+Building files
+Writing screenplay
+Creating documents
+Following instructions
+Executing your vision
+
+
+Starting Fresh Conversations With Me
+When this context fills up, start new chat with:
+Essential Files to Upload:
+
+PROJECT-STATUS.md (where you are)
+PROJECT_MASTER.md (the vision)
+character-profiles.md (the voices)
+scene-breakdown.md (the structure) ← Add this one too!
+visual-style-guide.md (the look) ← And this one!
+
+Opening Prompt:
+I'm making a political thriller film called "The Conductor." 
+I'm uploading the key project files. Please read them and 
+then help me with [specific issue/question].
+
+Files attached:
+- PROJECT-STATUS.md
+- PROJECT_MASTER.md  
+- character-profiles.md
+- scene-breakdown.md
+- visual-style-guide.md
+Then ask your question or describe the problem.
+
+The Workflow
+For building/executing:
+→ Use Claude Code with PROJECT-STATUS.md
+For creative decisions/problems:
+→ Use Claude (me) with the 5 key files
+For complex questions:
+→ Use both! Ask me first, then give refined instructions to Claude Code
+
+Example Scenarios
+Scenario 1: "Is this scene working?"
+
+Upload files to me (Claude chat)
+Share the scene
+I give creative feedback
+You give revised instructions to Claude Code
+
+Scenario 2: "Should I restructure Act II?"
+
+Upload files to me
+Discuss options
+Make decision together
+Claude Code executes the changes
+
+Scenario 3: "I'm stuck on character voice"
+
+Upload character-profiles.md to me
+Discuss the character
+I help find the voice
+Claude Code writes the dialogue
+
+Scenario 4: Technical production question
+
+Upload relevant guides to me
+Ask about Blender/DaVinci workflow
+I troubleshoot
+Claude Code creates assets
+
+
+Pro Tip: Keep a "Key Files" Folder
+On your computer, create:
+The Conductor - Key Files/
+├── PROJECT-STATUS.md (copy here after each update)
+├── PROJECT_MASTER.md
+├── character-profiles.md
+├── scene-breakdown.md
+└── visual-style-guide.md
+Easy to grab and upload to new Claude conversations.
+
+You Don't Need ALL the Files
+For most creative questions, you need:
+
+PROJECT_MASTER.md (vision)
+character-profiles.md (voices)
+The specific thing you're asking about
+
+PROJECT-STATUS.md is mainly for "where are we?" questions.
+
+You've discovered the perfect hybrid workflow. Use us both for what we're good at.
+I'm your creative partner. Claude Code is your production crew.
+Together = unstoppable. 🎬

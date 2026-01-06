@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move PROJECT_MASTER.md 01-development )",
+      "Bash(move character-profiles.md 01-development )",
+      "Bash(move FOUNTAIN-FORMAT-GUIDE.md 02-script)"
+    ]
+  }
+}
