@@ -1,3 +1,12 @@
+# 🎬 THE CONDUCTOR
+
+> A political thriller revealing the invisible architecture of power
+
+![Status](https://img.shields.io/badge/Status-Complete-success)
+![Pages](https://img.shields.io/badge/Screenplay-110%20pages-blue)
+![Development](https://img.shields.io/badge/Time-8%20hours-orange)
+
+---
 # THE CONDUCTOR - Movie Project
 
 **"Based on True Events"**
