@@ -1,8 +1,10 @@
 # 🎬 THE CONDUCTOR
 
-> Venezuela. Oil. Forty years. One trap.
+> How Venezuela lost its oil sovereignty to American creditors—forty years before anyone noticed
 
-**A Human-AI Collaboration | Created in 8 hours | Novel Methodology**
+**Proof of Concept: Human-AI Screenplay Development | 8-hour timeline | Novel Methodology**
+
+---
 
 ---
 # THE CONDUCTOR - Movie Project
